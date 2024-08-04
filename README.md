@@ -1,6 +1,8 @@
 # specs
 Conducting and Visualizing Specification Curve Analyses Use specs (specr) With In R Software
 
+https://www.youtube.com/watch?v=y6JV29Ci08k
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
